@@ -1,6 +1,8 @@
-﻿namespace PabloexpertBlog.Controllers
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace PabloexpertBlog.Controllers
 {
-    public class ArticleController
+    public class ArticleController : Controller
     {
     }
 }
