@@ -28,3 +28,4 @@ D:\projects\C#\web\PabloexpertBlog\PabloexpertBlog\obj\Debug\net8.0\refint\Pablo
 D:\projects\C#\web\PabloexpertBlog\PabloexpertBlog\obj\Debug\net8.0\PabloexpertBlog.pdb
 D:\projects\C#\web\PabloexpertBlog\PabloexpertBlog\obj\Debug\net8.0\PabloexpertBlog.genruntimeconfig.cache
 D:\projects\C#\web\PabloexpertBlog\PabloexpertBlog\obj\Debug\net8.0\ref\PabloexpertBlog.dll
+D:\projects\C#\web\PabloexpertBlog\PabloexpertBlog\obj\Debug\net8.0\PabloexpertBlog.sourcelink.json
