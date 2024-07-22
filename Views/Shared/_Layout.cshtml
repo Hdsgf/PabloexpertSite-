@@ -1,22 +1,14 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"]</title>
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    @await Html.PartialAsync("Partial/MetatagsPartial")
+    @await Html.PartialAsync("Partial/MetatagsPartial")
 </head>
 <body>
-    <header>
-        <span class="logo">Pabloepxert Blog</span>
-        <nav>
-            <a href="/">Home</a>
-            <a href="/articles">Articles</a>
-        </nav>
-    </header>
+    @await Html.PartialAsync("Partial/HeaderPartial")
     <main>
         @RenderBody()
     </main>
-    <footer>Other info</footer>
+    @await Html.PartialAsync("Partial/FooterPartial")
 </body>
 </html>
